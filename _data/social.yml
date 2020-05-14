@@ -16,13 +16,13 @@ reddit:
 soundcloud:
 stack_overflow:
 stack_exchange:
-steam:
+steam: twitch.tv/Grapedactyl
 tumblr:
-twitter:
+twitter: grapedactyl
 vimeo:
 wordpress:
 youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+twitch: grapedactyl
 
 # Share button options
 share:
