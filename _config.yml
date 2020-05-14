@@ -24,7 +24,7 @@ description: >-
   An expanded item list for TwitchToolkit that supports ToolkitUtils' shop.
 
 email: ''
-baseurl: '/Grapes-purchase-list' # the subpath of your site, e.g. /blog
+baseurl: '/Grapes-Purchase-List' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
 github_username: 'Grapedactyl'
