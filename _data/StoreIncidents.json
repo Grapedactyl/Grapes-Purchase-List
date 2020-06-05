@@ -111,6 +111,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "wandererjoins",
+		"price": 750,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -137,7 +142,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -207,7 +212,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -219,6 +224,11 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 2000,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -271,6 +281,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "reviveanypawn",
+		"price": 8000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
@@ -321,6 +336,16 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "reviveall",
+		"price": 50000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 10000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "healall",
 		"price": 17336,
 		"karmatype": "Good"
@@ -344,7 +369,12 @@
 		"abr": "passionshuffle",
 		"price": 2000,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 69
+	"total": 75
 }
