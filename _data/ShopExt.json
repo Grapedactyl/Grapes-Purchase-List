@@ -170,6 +170,25 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [
+        "psychopath",
+        "petty"
+      ],
+      "defName": "MT_Charismatic",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a shining personality. {PAWN_possessive} words can get through to others more than usual.",
+      "name": "charismatic",
+      "removePrice": 3000,
+      "stats": [
+        "+50.00% Social impact",
+        "+20.00% Trade price improvement"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "DrugDesire",
       "degree": 2,
@@ -188,6 +207,32 @@
       "degree": 1,
       "description": "[PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "name": "chemicalinterest",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "MT_Commander",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is an effective leader in ranged combat. Colonists around {PAWN_nameDef} have better aim.",
+      "name": "commander",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "MT_Conductor",
+      "degree": 0,
+      "description": "{PAWN_nameDef} leads the movement of others well. Colonists around {PAWN_nameDef} move faster.",
+      "name": "conductor",
       "removePrice": 3000,
       "stats": []
     },
@@ -218,6 +263,23 @@
       "stats": [
         "x110% Tame animal chance",
         "x115% Train animal chance"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "charismatic"
+      ],
+      "defName": "MT_Eccentric",
+      "degree": 0,
+      "description": "{PAWN_nameDef} Acts abnormally, probably due to their oddly high intelligence. {PAWN_pronoun} often makes a larger impact socially... For better or worse. {PAWN_nameDef} is so out of the social loop, {PAWN_pronoun} doesn't realise when {PAWN_pronoun} is being insulted.",
+      "name": "eccentric",
+      "removePrice": 3000,
+      "stats": [
+        "+50.00% Social impact"
       ]
     },
     {
@@ -284,7 +346,7 @@
       "stats": []
     },
     {
-      "addPrice": 5000,
+      "addPrice": 3000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -348,7 +410,36 @@
       ]
     },
     {
-      "addPrice": 5000,
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "MT_Hermit",
+      "degree": 0,
+      "description": "{PAWN_nameDef} prefers being solitary. {PAWN_pronoun} is better at working with plants anyways.",
+      "name": "hermit",
+      "removePrice": 3000,
+      "stats": [
+        "+15% Plant harvest yield",
+        "-50.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "IncompetentCook",
+      "degree": 0,
+      "description": "Everything {PAWN_nameDef} cooks turns into Dark matter.",
+      "name": "incompetentcook",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 3000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -442,6 +533,19 @@
         "-20% Global work speed",
         "x90% Mental break threshold"
       ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "MT_Luminary",
+      "degree": 0,
+      "description": "For whatever reason, everyone seems to really care how {PAWN_nameDef} is feeling.",
+      "name": "luminary",
+      "removePrice": 3000,
+      "stats": []
     },
     {
       "addPrice": 3000,
@@ -575,6 +679,32 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "LeeaniPacifist",
+      "degree": 0,
+      "description": "[PAWN_nameDef] is a pacifist - of a sort. [PAWN_pronoun]'s far, far less likely to start a social fight, but this doesn't mean [PAWN_pronoun] won't defend his friends from harm. [PAWN_possessive] relative pacifism only has a minor effect on [PAWN_possessive] combat ability,",
+      "name": "pacifist",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "MT_Peppy",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is full of energy. {PAWN_pronoun} will randomly gain the Frenzy Go Inspiration, even if {PAWN_pronoun} is not happy.",
+      "name": "peppy",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "NaturalMood",
       "degree": -1,
       "description": "[PAWN_nameDef] tends to look on the bad side of life.",
@@ -584,6 +714,22 @@
         "x105% Tame animal chance",
         "x110% Train animal chance"
       ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "psychopath",
+        "asexual"
+      ],
+      "defName": "MT_Petty",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is overtly concerned with social hitches. {PAWN_pronoun} tends to annoy others and can't stand {PAWN_possessive} ex-lovers moving on.",
+      "name": "petty",
+      "removePrice": 3000,
+      "stats": []
     },
     {
       "addPrice": 3000,
@@ -945,6 +1091,22 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [
+        "kind",
+        "conductor"
+      ],
+      "defName": "MT_Tyrant",
+      "degree": 0,
+      "description": "{PAWN_nameDef} harshly criticizes and dictates the actions of others. Colonists around {PAWN_nameDef} move and work faster, but receive a mood debuff from the added stress.",
+      "name": "tyrannic",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "Beauty",
       "degree": -1,
@@ -966,6 +1128,19 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness.",
       "name": "undergrounder",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "MT_Venturous",
+      "degree": 0,
+      "description": "{PAWN_nameDef} loves to take risks and complete quests. {PAWN_pronoun} will recieve mood buffs for successful quests, and debuffs for failed quests.",
+      "name": "venturous",
       "removePrice": 3000,
       "stats": []
     },
@@ -999,6 +1174,24 @@
       "stats": [
         "+15% Mental break threshold",
         "x115% Global learning factor"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "peppy",
+        "torturedartist"
+      ],
+      "defName": "MT_Volatile_Crafter",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is a genius crafter, and will often have creative inspiration. However, {PAWN_possessive} mind is constantly ticking, making {PAWN_nameDef} much more likely to have a mental break.",
+      "name": "volatilecrafter",
+      "removePrice": 3000,
+      "stats": [
+        "+20% Mental break threshold"
       ]
     },
     {
@@ -1108,9 +1301,39 @@
       "price": 1500
     },
     {
+      "defName": "Alien_Kijin",
+      "enabled": true,
+      "name": "kijin",
+      "price": 1500
+    },
+    {
       "defName": "KlickmalaRace",
       "enabled": true,
       "name": "klickmala",
+      "price": 1500
+    },
+    {
+      "defName": "Alien_Leeani",
+      "enabled": true,
+      "name": "leeani",
+      "price": 1500
+    },
+    {
+      "defName": "Mincho_ThingDef",
+      "enabled": true,
+      "name": "mincho",
+      "price": 1500
+    },
+    {
+      "defName": "Alien_Nyaron",
+      "enabled": true,
+      "name": "nyaron",
+      "price": 1500
+    },
+    {
+      "defName": "Alien_Orassan",
+      "enabled": true,
+      "name": "orassan",
       "price": 1500
     },
     {
@@ -1129,6 +1352,18 @@
       "defName": "StarWarsRaces_Rodian",
       "enabled": true,
       "name": "rodian",
+      "price": 1500
+    },
+    {
+      "defName": "Kenshi_Shek",
+      "enabled": true,
+      "name": "shek",
+      "price": 1500
+    },
+    {
+      "defName": "Kenshi_Skeleton",
+      "enabled": true,
+      "name": "skeleton",
       "price": 1500
     },
     {
