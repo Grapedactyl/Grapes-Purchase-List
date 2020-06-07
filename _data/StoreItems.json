@@ -9877,6 +9877,732 @@
 		"defname": "Nr_SUniform"
 	},
 	{
+		"abr": "aerogel",
+		"price": 8,
+		"category": "Manufactured",
+		"defname": "AvaliAerogel"
+	},
+	{
+		"abr": "avali",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Avali"
+	},
+	{
+		"abr": "avaliguardiancombathelmet",
+		"price": 2092,
+		"category": "Headgear",
+		"defname": "Avali_Apparel_GuardianHelmet"
+	},
+	{
+		"abr": "avaliguardiancombatsuit",
+		"price": 5117,
+		"category": "Avali armor",
+		"defname": "Avali_Apparel_GuardianArmor"
+	},
+	{
+		"abr": "avalihellcatcombathelmet",
+		"price": 1783,
+		"category": "Headgear",
+		"defname": "Avali_Apparel_HellcatHelmet"
+	},
+	{
+		"abr": "avalihellcatcombatsuit",
+		"price": 5050,
+		"category": "Avali armor",
+		"defname": "Avali_Apparel_HellcatArmor"
+	},
+	{
+		"abr": "avaliaeroponicstubing",
+		"price": 130,
+		"category": "Production",
+		"defname": "AvaliAeroponics"
+	},
+	{
+		"abr": "avaliauditoryaugment",
+		"price": 1000,
+		"category": "Avali augments",
+		"defname": "AvaliHearingAugment"
+	},
+	{
+		"abr": "avali'avalanche'shotgun",
+		"price": 3133,
+		"category": "Ranged weapons",
+		"defname": "Gun_Avali_Shotgun"
+	},
+	{
+		"abr": "avalibeltedcloak",
+		"price": 327,
+		"category": "Avali apparel",
+		"defname": "Avali_Apparel_BeltedCloak"
+	},
+	{
+		"abr": "avali'blizzard'rifle",
+		"price": 3017,
+		"category": "Ranged weapons",
+		"defname": "Gun_Avali_AssaultRifle"
+	},
+	{
+		"abr": "avalicamo",
+		"price": 183,
+		"category": "Avali apparel",
+		"defname": "Avali_Apparel_Camo"
+	},
+	{
+		"abr": "avalicap",
+		"price": 77,
+		"category": "Headgear",
+		"defname": "Avali_Apparel_Cap"
+	},
+	{
+		"abr": "avalicarpet(1x1)",
+		"price": 106,
+		"category": "Furniture",
+		"defname": "AvaliCarpet1x1c"
+	},
+	{
+		"abr": "avalicarpet(1x4)",
+		"price": 297,
+		"category": "Furniture",
+		"defname": "AvaliCarpet1x4c"
+	},
+	{
+		"abr": "avalicarpet(4x2)",
+		"price": 517,
+		"category": "Furniture",
+		"defname": "AvaliCarpet4x2c"
+	},
+	{
+		"abr": "avalicellinglamp",
+		"price": 102,
+		"category": "Furniture",
+		"defname": "AvaliCellingLight"
+	},
+	{
+		"abr": "avali'cerberus'turret",
+		"price": 3708,
+		"category": "Security",
+		"defname": "AvaliTurretSmall"
+	},
+	{
+		"abr": "avalicloak",
+		"price": 327,
+		"category": "Avali apparel",
+		"defname": "Avali_Apparel_Cloak"
+	},
+	{
+		"abr": "avali'coldsnap'smg",
+		"price": 1600,
+		"category": "Ranged weapons",
+		"defname": "Gun_Avali_SMG"
+	},
+	{
+		"abr": "avalicombathelmet",
+		"price": 1900,
+		"category": "Headgear",
+		"defname": "Avali_Apparel_CombatHelmet"
+	},
+	{
+		"abr": "avalicombatsuit",
+		"price": 5083,
+		"category": "Avali armor",
+		"defname": "Avali_Apparel_CombatArmor"
+	},
+	{
+		"abr": "avalicooker",
+		"price": 800,
+		"category": "Production",
+		"defname": "AvaliStove"
+	},
+	{
+		"abr": "avalicoolingaugment",
+		"price": 3333,
+		"category": "Avali augments",
+		"defname": "AvaliCoolAugment"
+	},
+	{
+		"abr": "avalicrystalgarden",
+		"price": 171,
+		"category": "Furniture",
+		"defname": "AvaliAerogelLight"
+	},
+	{
+		"abr": "avalidagger",
+		"price": 400,
+		"category": "Melee weapons",
+		"defname": "Avali_Dagger"
+	},
+	{
+		"abr": "avali'direshard'longsword",
+		"price": 1325,
+		"category": "Melee weapons",
+		"defname": "Avali_LongSword"
+	},
+	{
+		"abr": "avaliearrings",
+		"price": 107,
+		"category": "Headgear",
+		"defname": "Avali_Apparel_Rings"
+	},
+	{
+		"abr": "avaliegg",
+		"price": 1667,
+		"category": "Eggs (fert.)",
+		"defname": "AvaliEgg"
+	},
+	{
+		"abr": "avalieggomlette",
+		"price": 50,
+		"category": "Avali meals",
+		"defname": "AvaliEggOmlette"
+	},
+	{
+		"abr": "avaliexosuit",
+		"price": 1117,
+		"category": "Avali armor",
+		"defname": "Avali_Apparel_Exosuit"
+	},
+	{
+		"abr": "avali'firedart'rocketlauncher",
+		"price": 7917,
+		"category": "Ranged weapons",
+		"defname": "Gun_Avali_Rocket_Launcher"
+	},
+	{
+		"abr": "avali'firelance'anti-materialrifle",
+		"price": 5483,
+		"category": "Ranged weapons",
+		"defname": "Gun_Avali_Sniper"
+	},
+	{
+		"abr": "avalifloorlightpanel",
+		"price": 118,
+		"category": "Furniture",
+		"defname": "AvaliFloorLight"
+	},
+	{
+		"abr": "avali'frostbite'pistol",
+		"price": 925,
+		"category": "Ranged weapons",
+		"defname": "Gun_Avali_Pistol"
+	},
+	{
+		"abr": "avali'glacier'hammer",
+		"price": 883,
+		"category": "Melee weapons",
+		"defname": "Avali_Hammer"
+	},
+	{
+		"abr": "avali'hail'pila",
+		"price": 1125,
+		"category": "Melee weapons",
+		"defname": "Avali_Pila"
+	},
+	{
+		"abr": "avali'hailstorm'hybridminigun",
+		"price": 5367,
+		"category": "Ranged weapons",
+		"defname": "Gun_Avali_Minigun"
+	},
+	{
+		"abr": "avaliheadwraps",
+		"price": 194,
+		"category": "Headgear",
+		"defname": "Avali_Apparel_HeadWraps"
+	},
+	{
+		"abr": "avaliheadset",
+		"price": 725,
+		"category": "Headgear",
+		"defname": "Avali_Apparel_Headset"
+	},
+	{
+		"abr": "avaliheatingaugment",
+		"price": 3333,
+		"category": "Avali augments",
+		"defname": "AvaliHeatAugment"
+	},
+	{
+		"abr": "avali'icicle'spear",
+		"price": 1050,
+		"category": "Melee weapons",
+		"defname": "Avali_Spear"
+	},
+	{
+		"abr": "avalilifesupportaugment",
+		"price": 2667,
+		"category": "Avali augments",
+		"defname": "AvaliEnviromentalAugment"
+	},
+	{
+		"abr": "avalilifesupportbelt",
+		"price": 383,
+		"category": "Avali apparel",
+		"defname": "Apparel_LifeSupportBeltAvali"
+	},
+	{
+		"abr": "avalilightcombathelmet",
+		"price": 286,
+		"category": "Headgear",
+		"defname": "Avali_Apparel_LightCombatHelmet"
+	},
+	{
+		"abr": "avalimadnesspreventionaugment",
+		"price": 3333,
+		"category": "Avali augments",
+		"defname": "AvaliPackLossAugment"
+	},
+	{
+		"abr": "avalimeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Avali"
+	},
+	{
+		"abr": "avalinanolathe",
+		"price": 1025,
+		"category": "Production",
+		"defname": "AvaliNanolathe"
+	},
+	{
+		"abr": "avalinanoloom",
+		"price": 650,
+		"category": "Production",
+		"defname": "AvaliNanoloom"
+	},
+	{
+		"abr": "avaliofficechair",
+		"price": 350,
+		"category": "Furniture",
+		"defname": "AvaliChair"
+	},
+	{
+		"abr": "avali'ripper'turret",
+		"price": 5617,
+		"category": "Security",
+		"defname": "AvaliTurretMedium"
+	},
+	{
+		"abr": "avalirocket",
+		"price": 100,
+		"category": "Manufactured",
+		"defname": "AvaliRocket"
+	},
+	{
+		"abr": "avaliroundtable(1x1)",
+		"price": 105,
+		"category": "Furniture",
+		"defname": "AvaliTable1x1c"
+	},
+	{
+		"abr": "avaliroundtable(2x2)",
+		"price": 207,
+		"category": "Furniture",
+		"defname": "AvaliTable2x2c"
+	},
+	{
+		"abr": "avaliroundtable(3x3)",
+		"price": 417,
+		"category": "Furniture",
+		"defname": "AvaliTable3x3c"
+	},
+	{
+		"abr": "avaliscoutarmor",
+		"price": 2250,
+		"category": "Avali armor",
+		"defname": "Avali_Apparel_ScoutArmor"
+	},
+	{
+		"abr": "avaliscout'shud",
+		"price": 833,
+		"category": "Headgear",
+		"defname": "Avali_Apparel_ScoutHUD"
+	},
+	{
+		"abr": "avali'shard'shortsword",
+		"price": 883,
+		"category": "Melee weapons",
+		"defname": "Avali_Sword"
+	},
+	{
+		"abr": "avalishieldbelt",
+		"price": 2308,
+		"category": "Avali armor",
+		"defname": "Apparel_ShieldBeltAvali"
+	},
+	{
+		"abr": "avalishirt",
+		"price": 176,
+		"category": "Avali apparel",
+		"defname": "Avali_Apparel_Shirt"
+	},
+	{
+		"abr": "avaliskin",
+		"price": 10,
+		"category": "Leathers",
+		"defname": "Leather_Avali"
+	},
+	{
+		"abr": "avalisleeves",
+		"price": 105,
+		"category": "Avali apparel",
+		"defname": "Avali_Apparel_Sleeves"
+	},
+	{
+		"abr": "avalistandinglamp",
+		"price": 134,
+		"category": "Furniture",
+		"defname": "AvaliStandingLight"
+	},
+	{
+		"abr": "avalisurvivalgear",
+		"price": 1450,
+		"category": "Avali armor",
+		"defname": "Avali_Apparel_SurvivalGear"
+	},
+	{
+		"abr": "avalitable(1x2)",
+		"price": 93,
+		"category": "Furniture",
+		"defname": "AvaliTable1x2c"
+	},
+	{
+		"abr": "avalitable(2x4)",
+		"price": 319,
+		"category": "Furniture",
+		"defname": "AvaliTable2x4c"
+	},
+	{
+		"abr": "avalitail",
+		"price": 333,
+		"category": "Natural",
+		"defname": "TailAvali"
+	},
+	{
+		"abr": "avali'thrasher'turret",
+		"price": 10492,
+		"category": "Security",
+		"defname": "AvaliTurretLarge"
+	},
+	{
+		"abr": "avalitrenchcoat",
+		"price": 183,
+		"category": "Avali apparel",
+		"defname": "Avali_Apparel_Trenchcoat"
+	},
+	{
+		"abr": "avalivisionaugment",
+		"price": 2000,
+		"category": "Avali augments",
+		"defname": "AvaliSightAugment"
+	},
+	{
+		"abr": "avaliwrap",
+		"price": 120,
+		"category": "Avali apparel",
+		"defname": "Avali_Apparel_Wrap"
+	},
+	{
+		"abr": "avalon-styletaco",
+		"price": 45,
+		"category": "Avali meals",
+		"defname": "AvaliTaco"
+	},
+	{
+		"abr": "bfg9000(doom)",
+		"price": 8333,
+		"category": "Rocket launcher",
+		"defname": "RHEx_DOOMClassic_BFG9000Gun"
+	},
+	{
+		"abr": "chaingun(doom)",
+		"price": 1933,
+		"category": "Ranged weapons",
+		"defname": "RHGun_DOOMClassic_Chaingun"
+	},
+	{
+		"abr": "chateauavalon",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "ChateauAvalon"
+	},
+	{
+		"abr": "clothavaliear",
+		"price": 50,
+		"category": "Prosthetic",
+		"defname": "ClothAvaliEar"
+	},
+	{
+		"abr": "clothavalitail",
+		"price": 83,
+		"category": "Prosthetic",
+		"defname": "ClothAvaliTail"
+	},
+	{
+		"abr": "cushion",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "AvaliCushion"
+	},
+	{
+		"abr": "cyberneticavaliarm",
+		"price": 2500,
+		"category": "Avali",
+		"defname": "CyberneticAvaliArm"
+	},
+	{
+		"abr": "cyberneticavalibody",
+		"price": 13333,
+		"category": "Avali",
+		"defname": "CyberneticAvaliBody"
+	},
+	{
+		"abr": "cyberneticavalihead",
+		"price": 10000,
+		"category": "Avali",
+		"defname": "CyberneticAvaliHead"
+	},
+	{
+		"abr": "cyberneticavalileg",
+		"price": 2500,
+		"category": "Avali",
+		"defname": "CyberneticAvaliLeg"
+	},
+	{
+		"abr": "cyberneticavalitail",
+		"price": 2500,
+		"category": "Avali",
+		"defname": "CyberneticAvaliTail"
+	},
+	{
+		"abr": "eliteavalihellcatcombatsuit",
+		"price": 5883,
+		"category": "Avali armor",
+		"defname": "Avali_Apparel_HellcatArmorElite"
+	},
+	{
+		"abr": "eliteavalihellcatcombathelmet",
+		"price": 2567,
+		"category": "Headgear",
+		"defname": "Avali_Apparel_HellcatHelmetElite"
+	},
+	{
+		"abr": "eliteavalicombathelmet",
+		"price": 2733,
+		"category": "Headgear",
+		"defname": "Avali_Apparel_CombatHelmetElite"
+	},
+	{
+		"abr": "eliteavalicombatsuit",
+		"price": 5917,
+		"category": "Avali armor",
+		"defname": "Avali_Apparel_CombatArmorElite"
+	},
+	{
+		"abr": "guardiannanitesinjector",
+		"price": 1667,
+		"category": "Avali nanites",
+		"defname": "GuardianNanitesInjector"
+	},
+	{
+		"abr": "hologramtelevision",
+		"price": 2000,
+		"category": "Furniture",
+		"defname": "AvaliHoloTV"
+	},
+	{
+		"abr": "immunitynanitesinjector",
+		"price": 1667,
+		"category": "Avali nanites",
+		"defname": "ImmunityNanitesInjector"
+	},
+	{
+		"abr": "jjkarvikthos",
+		"price": 1667,
+		"category": "Texts",
+		"defname": "PrecursorText2_T"
+	},
+	{
+		"abr": "kiricurry",
+		"price": 45,
+		"category": "Avali meals",
+		"defname": "AvaliKiriCurry"
+	},
+	{
+		"abr": "kirifruits",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawKiriFruits"
+	},
+	{
+		"abr": "maglevarmchair",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "AvaliArmchair"
+	},
+	{
+		"abr": "mixombeavertoothpainsaw",
+		"price": 7500,
+		"category": "Melee weapons",
+		"defname": "RHMelee_DOOMClassic_Chainsaw"
+	},
+	{
+		"abr": "nakatibarks",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "RawNakatiBarks"
+	},
+	{
+		"abr": "nanofibre",
+		"price": 7,
+		"category": "Textiles",
+		"defname": "AvaliNanoFibre"
+	},
+	{
+		"abr": "pillow",
+		"price": 85,
+		"category": "Furniture",
+		"defname": "AvaliPillow"
+	},
+	{
+		"abr": "piruflour",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "RawPiruFlour"
+	},
+	{
+		"abr": "pirunoodle",
+		"price": 20,
+		"category": "Avali meals",
+		"defname": "AvaliPiruNoodle"
+	},
+	{
+		"abr": "pistol(doom)",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "RNGun_DOOMClassic_Pistol"
+	},
+	{
+		"abr": "plasmagun(doom)",
+		"price": 1433,
+		"category": "Ranged weapons",
+		"defname": "RHGun_DOOMClassic_PlasmaGun"
+	},
+	{
+		"abr": "plasteelavalitalons",
+		"price": 500,
+		"category": "Prosthetic",
+		"defname": "PlasteelAvaliTalons"
+	},
+	{
+		"abr": "praetorsuit(classic)",
+		"price": 4825,
+		"category": "Body armor",
+		"defname": "RHApparel_DOOMClassic_PraetorSuit"
+	},
+	{
+		"abr": "praetorsuithelmet(classic)",
+		"price": 2750,
+		"category": "Helmets",
+		"defname": "RHApparel_DOOMClassic_PraetorSuitHelmet"
+	},
+	{
+		"abr": "rocketlauncher(doom)",
+		"price": 5000,
+		"category": "Rocket launcher",
+		"defname": "RHEx_DOOMClassic_RocketLauncher"
+	},
+	{
+		"abr": "runningtrack",
+		"price": 492,
+		"category": "Furniture",
+		"defname": "AvaliRunningTrack"
+	},
+	{
+		"abr": "scarf",
+		"price": 70,
+		"category": "Headgear",
+		"defname": "Avali_Apparel_Scarf"
+	},
+	{
+		"abr": "securityhelmet(doom)",
+		"price": 1058,
+		"category": "Helmets",
+		"defname": "RHApparel_DOOMClassic_OriginalSecurityHelmet"
+	},
+	{
+		"abr": "shasauruvenddi",
+		"price": 1667,
+		"category": "Texts",
+		"defname": "PrecursorText1_T"
+	},
+	{
+		"abr": "shotgun(doom)",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "RHGun_DOOMClassic_Shotgun"
+	},
+	{
+		"abr": "smallfinemeal",
+		"price": 20,
+		"category": "Avali meals",
+		"defname": "MealSmallFine"
+	},
+	{
+		"abr": "smalllavishmeal",
+		"price": 40,
+		"category": "Avali meals",
+		"defname": "MealSmallLavish"
+	},
+	{
+		"abr": "smallpackagedsurvivalmeal",
+		"price": 27,
+		"category": "Meals",
+		"defname": "MealSmallSurvivalPack"
+	},
+	{
+		"abr": "smallsimplemeal",
+		"price": 8,
+		"category": "Avali meals",
+		"defname": "MealSmallSimple"
+	},
+	{
+		"abr": "spicyjerky",
+		"price": 23,
+		"category": "Avali meals",
+		"defname": "AvaliSpicyJerky"
+	},
+	{
+		"abr": "supershotgun(doom)",
+		"price": 400,
+		"category": "Ranged weapons",
+		"defname": "RHGun_DOOMClassic_SuperShotgun"
+	},
+	{
+		"abr": "textsgohere",
+		"price": 1667,
+		"category": "Texts",
+		"defname": "TextThing"
+	},
+	{
+		"abr": "uacfabricationbench",
+		"price": 967,
+		"category": "Production",
+		"defname": "RHBench_UACFabricationBench"
+	},
+	{
+		"abr": "utfinformingagency:anewracehasbeendiscovered!",
+		"price": 1667,
+		"category": "Texts",
+		"defname": "UTFNews1_T"
+	},
+	{
+		"abr": "wovengraphene",
+		"price": 5,
+		"category": "Manufactured",
+		"defname": "AvaliGraphene"
+	},
+	{
 		"abr": "guestadvancedbed",
 		"price": 833,
 		"category": "Furniture",
@@ -9905,6 +10631,12 @@
 		"price": 733,
 		"category": "Furniture",
 		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestcushion",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "AvaliCushionGuest"
 	},
 	{
 		"abr": "guestdoublebed",
@@ -9943,6 +10675,12 @@
 		"defname": "Bed_OperatingTableGuest"
 	},
 	{
+		"abr": "guestpillow",
+		"price": 85,
+		"category": "Furniture",
+		"defname": "AvaliPillowGuest"
+	},
+	{
 		"abr": "guestroyalbed",
 		"price": 1467,
 		"category": "Furniture",
@@ -9967,5 +10705,5 @@
 		"defname": "Bed_StoneSlabGuest"
 	}
 	],
-	"total": 1661
+	"total": 1784
 }
