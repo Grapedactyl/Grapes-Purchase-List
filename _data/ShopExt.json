@@ -5,7 +5,15 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [],
+      "conflicts": [
+        "kind",
+        "uncouth",
+        "diplomat",
+        "masterdiplomat",
+        "sucker",
+        "haggler",
+        "mastertrader"
+      ],
       "defName": "Abrasive",
       "degree": 0,
       "description": "{PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way.",
@@ -18,7 +26,71 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [],
+      "conflicts": [
+        "ascetic"
+      ],
+      "defName": "RCT_Aesthete",
+      "degree": 0,
+      "description": "[PAWN_nameDef] loves beautiful things, and really cares about how [PAWN_possessive] enviroment looks.",
+      "name": "aesthete",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "animallover"
+      ],
+      "defName": "RCT_AnimalHater",
+      "degree": 0,
+      "description": "[PAWN_nameDef] just isn't an \"animal person.\" [PAWN_pronoun] doesn't like animals, and for the record, they don't seem to much like [PAWN_objective], either.",
+      "name": "animalhater",
+      "removePrice": 3000,
+      "stats": [
+        "-10% Animal gather speed",
+        "-20% Animal gather yield",
+        "-40.00% Tame animal chance",
+        "-40.00% Train animal chance"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "animalhater",
+        "butcher"
+      ],
+      "defName": "RCT_AnimalLover",
+      "degree": 0,
+      "description": "[PAWN_nameDef] loves animals. [PAWN_pronoun] doesn't feel quite the same about people, though.",
+      "name": "animallover",
+      "removePrice": 3000,
+      "stats": [
+        "+10% Animal gather speed",
+        "+20% Animal gather yield",
+        "+40.00% Tame animal chance",
+        "+40.00% Train animal chance",
+        "-40.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "uncouth",
+        "diplomat",
+        "masterdiplomat",
+        "sucker",
+        "haggler",
+        "mastertrader"
+      ],
       "defName": "AnnoyingVoice",
       "degree": 0,
       "description": "{PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}.",
@@ -37,7 +109,8 @@
       "conflicts": [
         "greedy",
         "jealous",
-        "gourmand"
+        "gourmand",
+        "aesthete"
       ],
       "defName": "Ascetic",
       "degree": 0,
@@ -123,6 +196,7 @@
       "conflicts": [
         "carefulshooter",
         "trigger-happy",
+        "deadshot",
         "wimp"
       ],
       "defName": "Brawler",
@@ -132,6 +206,68 @@
       "removePrice": 3000,
       "stats": [
         "+4.0 Melee hit chance"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "greenthumb",
+        "inept",
+        "coordinated"
+      ],
+      "defName": "RCT_BrownThumb",
+      "degree": 0,
+      "description": "[PAWN_nameDef] is a terrible gardener. The only thing [PAWN_pronoun] seems able to grow is weeds.",
+      "name": "brownthumb",
+      "removePrice": 3000,
+      "stats": [
+        "-15% Plant harvest yield",
+        "-15% Plant work speed"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "inept",
+        "coordinated"
+      ],
+      "defName": "RCT_Builder",
+      "degree": 0,
+      "description": "[PAWN_nameDef] loved playing with construction toys as a child, and still enjoys the thrill of \"putting things together.\" But [PAWN_pronoun] tends to be a bit lost without clear instructions to follow.",
+      "name": "builder",
+      "removePrice": 3000,
+      "stats": [
+        "+20% Construction speed",
+        "+20% Construct success chance",
+        "-40.00% Tame animal chance"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "animallover",
+        "inept",
+        "coordinated"
+      ],
+      "defName": "RCT_Butcher",
+      "degree": 0,
+      "description": "[PAWN_nameDef] enjoys preparing meat for cooking. [PAWN_possessive] butchering speed is greatly increased, but only if [PAWN_pronoun]'s dealing with animal corpses. [PAWN_pronoun]'s terrible with mechanoids.",
+      "name": "butcher",
+      "removePrice": 3000,
+      "stats": [
+        "+20% Butchery efficiency",
+        "+40% Butchery speed",
+        "-20% Mechanoid shredding efficiency",
+        "-40% Mechanoid shredding speed"
       ]
     },
     {
@@ -153,7 +289,9 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [
-        "brawler"
+        "brawler",
+        "cranialnervepalsy",
+        "eagle-eyed"
       ],
       "defName": "ShootingAccuracy",
       "degree": 1,
@@ -162,7 +300,7 @@
       "removePrice": 3000,
       "stats": [
         "+25% Aiming time",
-        "+5.0 Shooting accuracy (people)"
+        "+3.0 Shooting accuracy (people)"
       ]
     },
     {
@@ -215,6 +353,44 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [
+        "inept",
+        "coordinated",
+        "rockhound"
+      ],
+      "defName": "RCT_Claustrophobic",
+      "degree": 0,
+      "description": "[PAWN_nameDef] is claustrophobic. [PAWN_pronoun] is terrified of tight spaces, and thus is not a very competent miner.",
+      "name": "claustrophobic",
+      "removePrice": 3000,
+      "stats": [
+        "-20% Mining speed",
+        "-20% Mining yield"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "heatlover"
+      ],
+      "defName": "RCT_ColdLover",
+      "degree": 0,
+      "description": "[PAWN_nameDef] loves colder temperatures. [PAWN_pronoun]'ll complain less than others when it's chilly, but will whine more when it's hot.",
+      "name": "coldlover",
+      "removePrice": 3000,
+      "stats": [
+        "-3.0C Maximum comfortable temperature",
+        "-5.0C Minimum comfortable temperature"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "MT_Commander",
       "degree": 0,
@@ -241,11 +417,113 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [],
+      "conflicts": [
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "builder",
+        "butcher",
+        "claustrophobic",
+        "gourmet",
+        "inventor",
+        "perfectionist",
+        "rockhound",
+        "savant"
+      ],
+      "defName": "RCT_Aptitude",
+      "degree": 1,
+      "description": "[PAWN_nameDef] is unusually coordinated, and good at most any sort of skilled labor.",
+      "name": "coordinated",
+      "removePrice": 3000,
+      "stats": [
+        "+20% Global work speed",
+        "+10% Animal gather speed",
+        "+10% Animal gather yield",
+        "+10% Butchery efficiency",
+        "+10% Butchery speed",
+        "+10% Mechanoid shredding efficiency",
+        "+10% Mechanoid shredding speed",
+        "+10% Construction speed",
+        "+10% Construct success chance",
+        "+0.1 Cooking speed",
+        "+10% Repair success chance",
+        "-10.00% Food poison chance (chance to poison a meal)",
+        "+10% Mining speed",
+        "+10% Mining yield",
+        "+10% Plant harvest yield",
+        "+10% Plant work speed",
+        "+10% General labor speed"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "carefulshooter",
+        "trigger-happy",
+        "deadshot"
+      ],
+      "defName": "RCT_Eyesight",
+      "degree": -1,
+      "description": "[PAWN_nameDef] has a hard time seeing things clearly unless [PAWN_pronoun].",
+      "name": "cranialnervepalsy",
+      "removePrice": 3000,
+      "stats": [
+        "-4.0 Shooting accuracy (people)",
+        "-4.0 Melee hit chance",
+        "-20% Global work speed"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "uncouth",
+        "diplomat",
+        "masterdiplomat",
+        "sucker",
+        "haggler",
+        "mastertrader"
+      ],
       "defName": "CreepyBreathing",
       "degree": 0,
       "description": "{PAWN_nameDef} breathes heavily all the time, and sweats constantly. People find it creepy.",
       "name": "creepybreathing",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "toosmart"
+      ],
+      "defName": "RCT_decentlearner",
+      "degree": 0,
+      "description": "[PAWN_nameDef] has always picked up skills pretty quickly.",
+      "name": "decentlearner",
+      "removePrice": 3000,
+      "stats": [
+        "+25% Global learning factor"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "RCT_DeepSleeper",
+      "degree": 0,
+      "description": "[PAWN_nameDef] can sleep through anything.",
+      "name": "deepsleeper",
       "removePrice": 3000,
       "stats": []
     },
@@ -263,6 +541,67 @@
       "stats": [
         "x110% Tame animal chance",
         "x115% Train animal chance"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "abrasive",
+        "annoyingvoice",
+        "creepybreathing"
+      ],
+      "defName": "RCT_Diplomat",
+      "degree": 1,
+      "description": "[PAWN_nameDef] knows how to grease the wheels of diplomacy.",
+      "name": "diplomat",
+      "removePrice": 3000,
+      "stats": [
+        "+15.00% Negotiation ability",
+        "+20.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "toosmart",
+        "fastlearner",
+        "inventor",
+        "savant"
+      ],
+      "defName": "RCT_Dunce",
+      "degree": 0,
+      "description": "[PAWN_nameDef] is a bit of a dunce, and learns at a slower rate than others.",
+      "name": "dunce",
+      "removePrice": 3000,
+      "stats": [
+        "-25% Global learning factor",
+        "-20% Research speed"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "carefulshooter",
+        "trigger-happy",
+        "deadshot"
+      ],
+      "defName": "RCT_Eyesight",
+      "degree": 1,
+      "description": "[PAWN_nameDef] has a keen eye, and can quickly spot targets.",
+      "name": "eagle-eyed",
+      "removePrice": 3000,
+      "stats": [
+        "+1.0 Melee hit chance",
+        "+5.0 Shooting accuracy (people)"
       ]
     },
     {
@@ -290,6 +629,7 @@
       "conflicts": [
         "carefulshooter",
         "trigger-happy",
+        "deadshot",
         "wimp"
       ],
       "defName": "Faith",
@@ -307,7 +647,11 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [],
+      "conflicts": [
+        "dunce",
+        "savant",
+        "toosmart"
+      ],
       "defName": "FastLearner",
       "degree": 0,
       "description": "{PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others.",
@@ -334,6 +678,21 @@
     },
     {
       "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "pyromaniac"
+      ],
+      "defName": "FearsFire",
+      "degree": 0,
+      "description": "{PAWN_nameDef} fears fire and tries to stay as far away from any source of fire as possible.",
+      "name": "fearsfire",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 3000,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -350,6 +709,21 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [],
+      "defName": "RCT_EatingSpeed",
+      "degree": 1,
+      "description": "[PAWN_nameDef] devours [PAWN_possessive] meals much faster than others.",
+      "name": "glutton",
+      "removePrice": 3000,
+      "stats": [
+        "+25% Eating speed"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [
         "ascetic"
       ],
@@ -360,6 +734,25 @@
       "removePrice": 3000,
       "stats": [
         "x75% Eating speed"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "inept",
+        "coordinated"
+      ],
+      "defName": "RCT_Gourmet",
+      "degree": 0,
+      "description": "[PAWN_nameDef] has a passion for food preparation. [PAWN_possessive] culinary creations are quite tasty, but [PAWN_pronoun] tends to take a while getting them \"just right.\"",
+      "name": "gourmet",
+      "removePrice": 3000,
+      "stats": [
+        "-0.2 Cooking speed",
+        "-40.00% Food poison chance (chance to poison a meal)"
       ]
     },
     {
@@ -399,7 +792,51 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [],
+      "conflicts": [
+        "inept",
+        "coordinated",
+        "brownthumb",
+        "rockhound"
+      ],
+      "defName": "RCT_GreenThumb",
+      "degree": 0,
+      "description": "[PAWN_nameDef] is a great gardener. The only thing [PAWN_pronoun] is a greener world.",
+      "name": "greenthumb",
+      "removePrice": 3000,
+      "stats": [
+        "+15% Plant harvest yield",
+        "+15% Plant work speed"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "abrasive",
+        "annoyingvoice",
+        "creepybreathing"
+      ],
+      "defName": "RCT_Trader",
+      "degree": 1,
+      "description": "[PAWN_nameDef] likes to haggle, and isn't bad at it. [PAWN_pronoun] tends to get better prices than most people.",
+      "name": "haggler",
+      "removePrice": 3000,
+      "stats": [
+        "+20.00% Trade price improvement"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "inept",
+        "coordinated",
+        "perfectionist"
+      ],
       "defName": "Industriousness",
       "degree": 1,
       "description": "[PAWN_nameDef] is a natural hard worker and will finish tasks faster than most.",
@@ -407,6 +844,24 @@
       "removePrice": 3000,
       "stats": [
         "+20% Global work speed"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "coldlover"
+      ],
+      "defName": "RCT_HeatLover",
+      "degree": 0,
+      "description": "[PAWN_nameDef] loves the heat. [PAWN_pronoun]'ll complain less than others when it's hot, but will whine more when it's cold.",
+      "name": "heatlover",
+      "removePrice": 3000,
+      "stats": [
+        "+5.0C Maximum comfortable temperature",
+        "+3.0C Minimum comfortable temperature"
       ]
     },
     {
@@ -426,7 +881,7 @@
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 3000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -443,7 +898,11 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [],
+      "conflicts": [
+        "inept",
+        "coordinated",
+        "perfectionist"
+      ],
       "defName": "Industriousness",
       "degree": 2,
       "description": "[PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person.",
@@ -458,7 +917,95 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [],
+      "conflicts": [
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "builder",
+        "butcher",
+        "claustrophobic",
+        "gourmet",
+        "inventor",
+        "perfectionist",
+        "rockhound",
+        "savant"
+      ],
+      "defName": "RCT_Aptitude",
+      "degree": -1,
+      "description": "[PAWN_pronoun] means well, but [PAWN_nameDef] is uncoordinated, and just not very good at any sort of skilled labor.",
+      "name": "inept",
+      "removePrice": 3000,
+      "stats": [
+        "-25% Global work speed",
+        "-20% Animal gather speed",
+        "-20% Animal gather yield",
+        "-20% Butchery efficiency",
+        "-20% Butchery speed",
+        "-20% Mechanoid shredding efficiency",
+        "-20% Mechanoid shredding speed",
+        "-20% Construction speed",
+        "-20% Construct success chance",
+        "-0.2 Cooking speed",
+        "-20% Repair success chance",
+        "+20.00% Food poison chance (chance to poison a meal)",
+        "-20% Mining speed",
+        "-20% Mining yield",
+        "-20% Plant harvest yield",
+        "-20% Plant work speed",
+        "-20% General labor speed"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "inept",
+        "coordinated",
+        "dunce"
+      ],
+      "defName": "RCT_Inventor",
+      "degree": 0,
+      "description": "Strange new ideas just appear in [PAWN_nameDef]'s mind. Researching new technologies comes easily to [PAWN_objective], but [PAWN_pronoun] always seems distracted.",
+      "name": "inventor",
+      "removePrice": 3000,
+      "stats": [
+        "+40% Research speed",
+        "-20% Global work speed",
+        "-0.10 Move speed",
+        "+10% Psychic sensitivity",
+        "+10% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "tough",
+        "wimp"
+      ],
+      "defName": "RCT_PainThreshold",
+      "degree": 1,
+      "description": "[PAWN_nameDef] has a high tolerance for pain.",
+      "name": "ironman",
+      "removePrice": 3000,
+      "stats": [
+        "+15% Pain shock threshold",
+        "-15% Incoming damage multiplier"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "toosmart"
+      ],
       "defName": "Nerves",
       "degree": 2,
       "description": "[PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before.",
@@ -523,7 +1070,11 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [],
+      "conflicts": [
+        "inept",
+        "coordinated",
+        "perfectionist"
+      ],
       "defName": "Industriousness",
       "degree": -1,
       "description": "[PAWN_nameDef] is a little bit lazy.",
@@ -532,6 +1083,25 @@
       "stats": [
         "-20% Global work speed",
         "x90% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "tough",
+        "wimp"
+      ],
+      "defName": "RCT_PainThreshold",
+      "degree": -1,
+      "description": "[PAWN_nameDef] will become immobilized by pain more quickly than most.",
+      "name": "lowpaintolerance",
+      "removePrice": 3000,
+      "stats": [
+        "-15% Pain shock threshold",
+        "+15% Incoming damage multiplier"
       ]
     },
     {
@@ -565,6 +1135,63 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [
+        "abrasive",
+        "annoyingvoice",
+        "creepybreathing"
+      ],
+      "defName": "RCT_Diplomat",
+      "degree": 2,
+      "description": "[PAWN_nameDef] has such a way with words that [PAWN_pronoun] always manages to cool down a tense situation. [PAWN_pronoun] could talk for days and people would still listen.",
+      "name": "masterdiplomat",
+      "removePrice": 3000,
+      "stats": [
+        "+30.00% Negotiation ability",
+        "+40.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "RCT_Medic",
+      "degree": 2,
+      "description": "[PAWN_nameDef] has a natural aptitude for medical work. Between [PAWN_possessive] steady, skilled hands and [PAWN_possessive] inspiring bedside manner, patients in [PAWN_possessive] care will have little to fear.",
+      "name": "mastermedic",
+      "removePrice": 3000,
+      "stats": [
+        "-20% Medical operation speed",
+        "+40% Medical surgery success chance",
+        "-20% Medical tend speed",
+        "+40% Medical tend quality"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "abrasive",
+        "annoyingvoice",
+        "creepybreathing"
+      ],
+      "defName": "RCT_Trader",
+      "degree": 2,
+      "description": "[PAWN_nameDef] always gets the best deals.",
+      "name": "mastertrader",
+      "removePrice": 3000,
+      "stats": [
+        "+40.00% Trade price improvement"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "DislikesMen",
       "degree": 0,
@@ -592,6 +1219,29 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "RCT_NeatFreak",
+      "degree": 0,
+      "description": "[PAWN_nameDef] is fastidious to a fault.",
+      "name": "neatfreak",
+      "removePrice": 3000,
+      "stats": [
+        "-20% Global work speed",
+        "-50.00% Food poison chance (chance to poison a meal)",
+        "+20% Immunity gain speed",
+        "+20% Medical surgery success chance",
+        "+20% Medical tend quality",
+        "-10% Medical operation speed",
+        "-10% Medical tend speed"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "toosmart"
+      ],
       "defName": "Nerves",
       "degree": -1,
       "description": "[PAWN_nameDef] tends to crack under pressure.",
@@ -616,6 +1266,21 @@
       "stats": [
         "+20% Global work speed",
         "+8% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "RCT_EatingSpeed",
+      "degree": -1,
+      "description": "[PAWN_nameDef] picks at [PAWN_possessive] food, taking extra time to finish [PAWN_possessive] meals.",
+      "name": "nibbler",
+      "removePrice": 3000,
+      "stats": [
+        "-25% Eating speed"
       ]
     },
     {
@@ -666,6 +1331,32 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "RCT_Nyctophobe",
+      "degree": 1,
+      "description": "[PAWN_nameDef] doesn't fear the dark at all.",
+      "name": "nyctophile",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "RCT_Nyctophobe",
+      "degree": -1,
+      "description": "[PAWN_nameDef] is really afraid of the dark.",
+      "name": "nyctophobe",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "NaturalMood",
       "degree": 1,
       "description": "[PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down.",
@@ -704,6 +1395,49 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "inept",
+        "coordinated"
+      ],
+      "defName": "RCT_Perfectionist",
+      "degree": 0,
+      "description": "[PAWN_nameDef] refuses to accept less than [PAWN_possessive] best in any endeavor, no matter how long it takes. [PAWN_pronoun]'s less likely to fail when doing something, but [PAWN_pronoun] works slowly.",
+      "name": "perfectionist",
+      "removePrice": 3000,
+      "stats": [
+        "-20% Global work speed",
+        "-10% Animal gather speed",
+        "+20% Animal gather yield",
+        "+20% Butchery efficiency",
+        "-10% Butchery speed",
+        "+20% Mechanoid shredding efficiency",
+        "-10% Mechanoid shredding speed",
+        "-10% Construction speed",
+        "+20% Construct success chance",
+        "-0.1 Cooking speed",
+        "+20% Repair success chance",
+        "-20.00% Food poison chance (chance to poison a meal)",
+        "-10% Medical operation speed",
+        "+20% Medical surgery success chance",
+        "+20% Medical tend quality",
+        "-10% Medical tend speed",
+        "-10% Mining speed",
+        "+20% Mining yield",
+        "+20% Plant harvest yield",
+        "-10% Plant work speed",
+        "-10% Research speed",
+        "-10% General labor speed"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "NaturalMood",
       "degree": -1,
@@ -730,6 +1464,22 @@
       "name": "petty",
       "removePrice": 3000,
       "stats": []
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "RCT_Medic",
+      "degree": -1,
+      "description": "Even when they have the best of intentions, some people just aren't cut out for medicine. [PAWN_nameDef] is one of those people.",
+      "name": "poormedic",
+      "removePrice": 3000,
+      "stats": [
+        "-20% Medical surgery success chance",
+        "-20% Medical tend quality"
+      ]
     },
     {
       "addPrice": 3000,
@@ -873,6 +1623,30 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [
+        "inept",
+        "coordinated",
+        "claustrophobic"
+      ],
+      "defName": "RCT_Rockhound",
+      "degree": 0,
+      "description": "[PAWN_nameDef] enjoys working with rocks. [PAWN_possessive] mining speed is increased, but [PAWN_possessive] lack of interest in other areas slows [PAWN_objective] down when doing other jobs. And [PAWN_pronoun] hates working with plants.",
+      "name": "rockhound",
+      "removePrice": 3000,
+      "stats": [
+        "-20% Global work speed",
+        "+40% Mining speed",
+        "+20% Mining yield",
+        "-50% Plant harvest yield",
+        "-40% Plant work speed",
+        "+40% Smoothing speed"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "NaturalMood",
       "degree": 2,
@@ -880,6 +1654,28 @@
       "name": "sanguine",
       "removePrice": 3000,
       "stats": []
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "toosmart",
+        "fastlearner",
+        "inept",
+        "coordinated",
+        "dunce"
+      ],
+      "defName": "RCT_Savant",
+      "degree": 0,
+      "description": "[PAWN_nameDef] is a modern-day Da Vinci, with a creative mind that can grasp new ideas almost effortlessly. But [PAWN_pronoun]'s almost painfully slow when it comes to doing actual physical work.",
+      "name": "savant",
+      "removePrice": 3000,
+      "stats": [
+        "+80% Global learning factor",
+        "-60% Global work speed"
+      ]
     },
     {
       "addPrice": 3000,
@@ -900,6 +1696,26 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "RCT_Medic",
+      "degree": 1,
+      "description": "[PAWN_nameDef] seems to have a knack for medical work. Patients in [PAWN_possessive] care will likely fare well.",
+      "name": "skilledmedic",
+      "removePrice": 3000,
+      "stats": [
+        "+20% Medical surgery success chance",
+        "+20% Medical tend quality"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "inept",
+        "coordinated",
+        "perfectionist"
+      ],
       "defName": "Industriousness",
       "degree": -2,
       "description": "[PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task.",
@@ -965,7 +1781,9 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [],
+      "conflicts": [
+        "toosmart"
+      ],
       "defName": "Nerves",
       "degree": 1,
       "description": "[PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people.",
@@ -973,6 +1791,41 @@
       "removePrice": 3000,
       "stats": [
         "-9% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "RCT_Constitution",
+      "degree": 1,
+      "description": "[PAWN_nameDef]'s body is stronger than normal against diseases, pathogens and toxic fallout.",
+      "name": "strongconstitution",
+      "removePrice": 3000,
+      "stats": [
+        "+25% Immunity gain speed",
+        "-50% Toxic sensitivity"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "abrasive",
+        "annoyingvoice",
+        "creepybreathing"
+      ],
+      "defName": "RCT_Trader",
+      "degree": -1,
+      "description": "[PAWN_nameDef] just can't seem to help but get taken advantage of while trading. [PAWN_pronoun]'ll pay more than [PAWN_pronoun] should, and still think that [PAWN_pronoun] got a good deal. ",
+      "name": "sucker",
+      "removePrice": 3000,
+      "stats": [
+        "-20.00% Trade price improvement"
       ]
     },
     {
@@ -1013,7 +1866,10 @@
         "steadfast",
         "nervous",
         "volatile",
-        "slowlearner"
+        "slowlearner",
+        "dunce",
+        "fastlearner",
+        "savant"
       ],
       "defName": "TooSmart",
       "degree": 0,
@@ -1043,7 +1899,12 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [],
+      "conflicts": [
+        "wimp",
+        "unstoppable",
+        "ironman",
+        "lowpaintolerance"
+      ],
       "defName": "Tough",
       "degree": 0,
       "description": "{PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill.",
@@ -1074,7 +1935,9 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [
-        "brawler"
+        "brawler",
+        "cranialnervepalsy",
+        "eagle-eyed"
       ],
       "defName": "ShootingAccuracy",
       "degree": -1,
@@ -1083,7 +1946,7 @@
       "removePrice": 3000,
       "stats": [
         "-50% Aiming time",
-        "-5.0 Shooting accuracy (people)"
+        "-3.0 Shooting accuracy (people)"
       ]
     },
     {
@@ -1123,6 +1986,26 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [
+        "abrasive",
+        "annoyingvoice",
+        "creepybreathing"
+      ],
+      "defName": "RCT_Diplomat",
+      "degree": -1,
+      "description": "Subtlety? Diplomacy? [PAWN_nameDef] barely even understands the meaning of the words.",
+      "name": "uncouth",
+      "removePrice": 3000,
+      "stats": [
+        "-15.00% Negotiation ability",
+        "-20.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "Undergrounder",
       "degree": 0,
@@ -1130,6 +2013,25 @@
       "name": "undergrounder",
       "removePrice": 3000,
       "stats": []
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "tough",
+        "wimp"
+      ],
+      "defName": "RCT_PainThreshold",
+      "degree": 2,
+      "description": "[PAWN_nameDef] has an exceptionally high tolerance for pain. [PAWN_pronoun] is unlikely to be immobilized by it.",
+      "name": "unstoppable",
+      "removePrice": 3000,
+      "stats": [
+        "+25% Pain shock threshold",
+        "-25% Incoming damage multiplier"
+      ]
     },
     {
       "addPrice": 3000,
@@ -1165,7 +2067,9 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [],
+      "conflicts": [
+        "toosmart"
+      ],
       "defName": "Nerves",
       "degree": -2,
       "description": "[PAWN_nameDef] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation.",
@@ -1199,8 +2103,27 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [],
+      "defName": "RCT_Constitution",
+      "degree": -1,
+      "description": "[PAWN_nameDef] is especially vulnerable to diseases, pathogens and toxic fallout.",
+      "name": "weakconstitution",
+      "removePrice": 3000,
+      "stats": [
+        "-25% Immunity gain speed",
+        "+50% Toxic sensitivity"
+      ]
+    },
+    {
+      "addPrice": 3000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [
-        "brawler"
+        "brawler",
+        "unstoppable",
+        "ironman",
+        "lowpaintolerance"
       ],
       "defName": "Wimp",
       "degree": 0,
@@ -1240,6 +2163,12 @@
     }
   ],
   "races": [
+    {
+      "defName": "Avali",
+      "enabled": true,
+      "name": "avali",
+      "price": 1500
+    },
     {
       "defName": "Dragonian_Male",
       "enabled": true,
