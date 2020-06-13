@@ -148,7 +148,7 @@
       ]
     },
     {
-      "addPrice": 3000,
+      "addPrice": 1,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -157,7 +157,7 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is romantically attracted to both men and women.",
       "name": "bisexual",
-      "removePrice": 3000,
+      "removePrice": 1,
       "stats": []
     },
     {
@@ -692,7 +692,7 @@
       "stats": []
     },
     {
-      "addPrice": 3000,
+      "addPrice": 1,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -701,7 +701,7 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender.",
       "name": "gay",
-      "removePrice": 3000,
+      "removePrice": 1,
       "stats": []
     },
     {
@@ -763,10 +763,12 @@
       "conflicts": [],
       "defName": "GreatMemory",
       "degree": 0,
-      "description": "{PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people.",
+      "description": "{PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will learn new skills slightly faster than other people.",
       "name": "greatmemory",
       "removePrice": 3000,
-      "stats": []
+      "stats": [
+        "+25% Global learning factor"
+      ]
     },
     {
       "addPrice": 3000,
