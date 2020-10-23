@@ -19,6 +19,10 @@
   },
   {
     "author": "UnlimitedHugs",
+    "name": "Defensive Positions"
+  },
+  {
+    "author": "UnlimitedHugs",
     "name": "Allow Tool"
   },
   {
@@ -40,16 +44,32 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
+  },
+  {
     "author": "NotFood",
     "name": "MendAndRecycle",
     "steamId": "735241897",
     "version": "1.0.1.0"
   },
   {
+    "author": "Mobius",
+    "name": "Royalty Tweaks",
+    "steamId": "2018384424",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "explodoboy",
+    "name": "Science Never Stops: Ambition of the Cosmic"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "",
-    "version": "5.0.1.8"
+    "version": "5.0.1.10"
   },
   {
     "author": "Andreas Pardeike",
@@ -62,6 +82,12 @@
     "name": "JecsTools",
     "steamId": "932008009",
     "version": "1.1.1.2"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
   },
   {
     "author": "InsertKey",
@@ -189,9 +215,7 @@
   },
   {
     "author": "Roolo",
-    "name": "Dual Wield",
-    "steamId": "1628211313",
-    "version": "0.5.0.0"
+    "name": "Dual Wield"
   },
   {
     "author": "Roolo",
@@ -440,12 +464,6 @@
     "name": "Apparel Organizer (Continued)"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races 2.0",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "ssulunge",
     "name": "FemaleBB BodyType Support",
     "steamId": "1792668502",
@@ -484,8 +502,8 @@
     "version": "2.6.71"
   },
   {
-    "author": "Smash Phil",
-    "name": "Loading In Progress"
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus"
   },
   {
     "author": "Uuugggg",
@@ -594,6 +612,22 @@
     "name": "[SF] Priority treatment 1.1"
   },
   {
+    "author": "historic",
+    "name": "Industrial Rollers",
+    "steamId": "784327493",
+    "version": "2.5.0"
+  },
+  {
+    "author": "malkav73",
+    "name": "Industrial Rollers Addon"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.4.9"
+  },
+  {
     "author": "cucumpear, Azrael",
     "name": "Animal Variety Coats"
   },
@@ -604,10 +638,32 @@
     "version": "4.4.9"
   },
   {
+    "author": "Haplo",
+    "name": "Misc. Robots"
+  },
+  {
+    "author": "Abraxas",
+    "name": "RJW - RaceSupport"
+  },
+  {
     "author": "Thirite, Cheran, Jarry1250, lellel, Kori",
     "name": "Babies and Children",
     "steamId": "2156451266",
     "version": "1.0.7503.35741"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.2.0.4"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Loading In Progress"
+  },
+  {
+    "author": "malkav73",
+    "name": "PRF Automation Addon for SNS"
   },
   {
     "author": "Fluffy",
