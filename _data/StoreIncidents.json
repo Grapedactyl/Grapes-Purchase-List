@@ -3,12 +3,12 @@
 	{
 		"abr": "tornado",
 		"price": 8000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
 		"price": 13007,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -137,7 +137,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -226,37 +226,27 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "siegeraid",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -322,7 +312,7 @@
 	},
 	{
 		"abr": "randominspire",
-		"price": 450,
+		"price": 1250,
 		"karmatype": "Good"
 	},
 	{
@@ -401,5 +391,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 80
+	"total": 78
 }
