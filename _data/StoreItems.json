@@ -1846,25 +1846,25 @@
       "abr": "thrumbo",
       "category": "Animal",
       "defname": "Thrumbo",
-      "price": 6667
+      "price": 66670
     },
     {
       "abr": "thrumbohorn",
       "category": "Items",
       "defname": "ThrumboHorn",
-      "price": 1333
+      "price": 13330
     },
     {
       "abr": "thrumbomeat",
       "category": "Meat",
       "defname": "Meat_Thrumbo",
-      "price": 3
+      "price": 30
     },
     {
       "abr": "thrumbofur",
       "category": "Leathers",
       "defname": "Leather_Thrumbo",
-      "price": 23
+      "price": 230
     },
     {
       "abr": "timberwolf",
@@ -11575,114 +11575,6 @@
       "price": 12500
     },
     {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
-      "price": 155
-    },
-    {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": 137
-    },
-    {
-      "abr": "guestcrib",
-      "category": "Furniture",
-      "defname": "CribGuest",
-      "price": 105
-    },
-    {
-      "abr": "guestcryptosleepsuspender",
-      "category": "Furniture",
-      "defname": "Bed_CryptoBedGuest",
-      "price": 733
-    },
-    {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": 292
-    },
-    {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": 290
-    },
-    {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
-      "price": 450
-    },
-    {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": 867
-    },
-    {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": 667
-    },
-    {
-      "abr": "guestmedpod",
-      "category": "Furniture",
-      "defname": "MedPodStandardGuest",
-      "price": 8333
-    },
-    {
-      "abr": "guestmedpodlux",
-      "category": "Furniture",
-      "defname": "MedPodLuxGuest",
-      "price": 12500
-    },
-    {
-      "abr": "guestoperatingtable",
-      "category": "Furniture",
-      "defname": "Bed_OperatingTableGuest",
-      "price": 508
-    },
-    {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": 1467
-    },
-    {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": 2008
-    },
-    {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": 137
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": 111
-    },
-    {
-      "abr": "zombgrella",
-      "category": "Misc",
-      "defname": "Zombgrella",
-      "price": 642
-    },
-    {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": 3333
-    },
-    {
       "abr": "a.r.c.h.oarmor",
       "category": "SoS2Extended Apparel",
       "defname": "AArchoArmor",
@@ -11806,19 +11698,19 @@
       "abr": "animalimplant:bionicthrumbobrain(tier3)",
       "category": "Hybrid implants",
       "defname": "GR_ThrumboBrain",
-      "price": 417
+      "price": 4170
     },
     {
       "abr": "animalimplant:bionicthrumboeye(tier3)",
       "category": "Hybrid implants",
       "defname": "GR_ThrumboEye",
-      "price": 417
+      "price": 4170
     },
     {
       "abr": "animalimplant:bionicthrumbojaws(tier3)",
       "category": "Hybrid implants",
       "defname": "GR_ThrumboJaws",
-      "price": 417
+      "price": 4170
     },
     {
       "abr": "animalimplant:boomalopeheart(tier1)",
@@ -11908,7 +11800,7 @@
       "abr": "animalimplant:miniaturethrumbohorn(tier3)",
       "category": "Hybrid implants",
       "defname": "GR_MiniatureThrumboHorn",
-      "price": 417
+      "price": 4170
     },
     {
       "abr": "animalimplant:monitorlizardbrain(tier2)",
@@ -11962,7 +11854,7 @@
       "abr": "animalimplant:thrumboleg(tier3)",
       "category": "Hybrid implants",
       "defname": "GR_ThrumboLeg",
-      "price": 417
+      "price": 4170
     },
     {
       "abr": "animalimplant:wolfjaws(tier1)",
@@ -11980,7 +11872,7 @@
       "abr": "animushareincubator",
       "category": "Incubators",
       "defname": "GR_AnimusHareIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "ankylosaurus",
@@ -12760,19 +12652,19 @@
       "abr": "bear/rodentincubator",
       "category": "Incubators",
       "defname": "GR_BearRodentPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "bear/rodentincubator",
       "category": "Incubators",
       "defname": "GR_BearmoleIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "bear/rodentincubator",
       "category": "Incubators",
       "defname": "GR_MolebearIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "bearbug",
@@ -12796,7 +12688,7 @@
       "abr": "bearbugincubator",
       "category": "Incubators",
       "defname": "GR_BearBugIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "beargeneticmaterial",
@@ -12916,13 +12808,13 @@
       "abr": "beetlefleetincubator",
       "category": "Incubators",
       "defname": "GR_BeetlefleetIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "bio-engineeringincubator",
       "category": "Furniture",
       "defname": "VFEI_BioengineeringIncubator",
-      "price": 1067
+      "price": 10670
     },
     {
       "abr": "bioship,bottom",
@@ -13054,115 +12946,115 @@
       "abr": "boomaliskincubator",
       "category": "Incubators",
       "defname": "GR_BoomaliskIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearBoomalopePre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearalopeIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/bearincubator",
       "category": "Incubators",
       "defname": "GR_BoomabearIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/catincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeCatPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/catincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeCatIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/catincubator",
       "category": "Incubators",
       "defname": "GR_CatBoomalopeIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/chickenincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeChickenPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/chickenincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeChickenIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/chickenincubator",
       "category": "Incubators",
       "defname": "GR_ChickenBoomalopeIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeMuffaloPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeMuffaloIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloBoomalopeIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/rodentincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeRodentPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/rodentincubator",
       "category": "Incubators",
       "defname": "GR_BoomsquirrelIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/rodentincubator",
       "category": "Incubators",
       "defname": "GR_SquirralopeIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/wolfincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeWolfPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/wolfincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeWolfIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalope/wolfincubator",
       "category": "Incubators",
       "defname": "GR_WolfBoomalopeIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "boomalopegeneticmaterial",
@@ -13312,37 +13204,37 @@
       "abr": "cat/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearCatPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "cat/bearincubator",
       "category": "Incubators",
       "defname": "GR_CatBearIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "cat/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearCatIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "cat/rodentincubator",
       "category": "Incubators",
       "defname": "GR_CatRodentPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "cat/rodentincubator",
       "category": "Incubators",
       "defname": "GR_CatRodentIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "cat/rodentincubator",
       "category": "Incubators",
       "defname": "GR_RodentCatIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "catalope",
@@ -13402,91 +13294,91 @@
       "abr": "chicken/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearChickenPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chicken/bearincubator",
       "category": "Incubators",
       "defname": "GR_ChickenBearIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chicken/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearChickenIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chicken/catincubator",
       "category": "Incubators",
       "defname": "GR_ChickenCatPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chicken/catincubator",
       "category": "Incubators",
       "defname": "GR_ChickenCatIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chicken/catincubator",
       "category": "Incubators",
       "defname": "GR_CatChickenIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chicken/leporidincubator",
       "category": "Incubators",
       "defname": "GR_ChickenRodentPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chicken/leporidincubator",
       "category": "Incubators",
       "defname": "GR_ChickenrabbitIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chicken/leporidincubator",
       "category": "Incubators",
       "defname": "GR_RabbitchickenIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chicken/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_ChickenMuffaloPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chicken/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_ChickenMuffaloIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chicken/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloChickenIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chicken/wolfincubator",
       "category": "Incubators",
       "defname": "GR_ChickenWolfPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chicken/wolfincubator",
       "category": "Incubators",
       "defname": "GR_ChickenWolfIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chicken/wolfincubator",
       "category": "Incubators",
       "defname": "GR_WolfChickenIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "chickengeneticmaterial",
@@ -13690,19 +13582,19 @@
       "abr": "combatform:faceless",
       "category": "Skill books",
       "defname": "BookOfFaceless",
-      "price": 4292
+      "price": 15000
     },
     {
       "abr": "combatform:gladiator",
       "category": "Skill books",
       "defname": "BookOfGladiator",
-      "price": 4292
+      "price": 15000
     },
     {
       "abr": "combatpower:psionic",
       "category": "Skill books",
       "defname": "BookOfPsionic",
-      "price": 4750
+      "price": 15000
     },
     {
       "abr": "combatstyle:bladedancer",
@@ -14098,7 +13990,7 @@
       "abr": "emptyincubator",
       "category": "Incubators",
       "defname": "GR_EmptyIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "emufatointment",
@@ -14212,13 +14104,13 @@
       "abr": "fighterskill:innerhealing",
       "category": "Scrolls",
       "defname": "SkillOf_InnerHealing",
-      "price": 833
+      "price": 1500
     },
     {
       "abr": "fighterskill:legion",
       "category": "Scrolls",
       "defname": "SkillOf_Legion",
-      "price": 1333
+      "price": 1500
     },
     {
       "abr": "fighterskill:pommelstrike",
@@ -14230,13 +14122,13 @@
       "abr": "fighterskill:sprint",
       "category": "Scrolls",
       "defname": "SkillOf_Sprint",
-      "price": 833
+      "price": 1500
     },
     {
       "abr": "fighterskill:strongback",
       "category": "Scrolls",
       "defname": "SkillOf_StrongBack",
-      "price": 1000
+      "price": 1500
     },
     {
       "abr": "fighterskill:taunt",
@@ -14248,13 +14140,13 @@
       "abr": "fighterskill:tempeststrike",
       "category": "Scrolls",
       "defname": "SkillOf_TempestStrike",
-      "price": 1000
+      "price": 1500
     },
     {
       "abr": "fighterskill:thickskin",
       "category": "Scrolls",
       "defname": "SkillOf_ThickSkin",
-      "price": 667
+      "price": 1500
     },
     {
       "abr": "fighterskill:throwingknife",
@@ -14392,7 +14284,7 @@
       "abr": "groundfalloincubator",
       "category": "Incubators",
       "defname": "GR_GroundfalloIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "hairballwool",
@@ -14638,13 +14530,13 @@
       "abr": "humanimplant:thrumbohorn",
       "category": "Hybrid implants",
       "defname": "GR_HumanThrumboHorn",
-      "price": 417
+      "price": 4170
     },
     {
       "abr": "humanimplant:thrumboskin",
       "category": "Hybrid implants",
       "defname": "GR_ThrumboSkin",
-      "price": 417
+      "price": 4170
     },
     {
       "abr": "humanimplant:venomousfangs",
@@ -14740,7 +14632,7 @@
       "abr": "hybridthrumbogenesgenetrainer",
       "category": "Genetrainers",
       "defname": "GR_HybridThrumboGenesGenetrainer",
-      "price": 167
+      "price": 1670
     },
     {
       "abr": "hybridwolfgenesgenetrainer",
@@ -14914,43 +14806,43 @@
       "abr": "insectoid/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearscarabIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "insectoid/boomalopeincubator",
       "category": "Incubators",
       "defname": "GR_BoombeetleIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "insectoid/catincubator",
       "category": "Incubators",
       "defname": "GR_SpidercatIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "insectoid/chickenincubator",
       "category": "Incubators",
       "defname": "GR_ChickenspiderIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "insectoid/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_MuffalopedeIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "insectoid/thrumboincubator",
       "category": "Incubators",
       "defname": "GR_ThrumbospiderIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "insectoid/wolfincubator",
       "category": "Incubators",
       "defname": "GR_WolfscarabIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "insectoidarm",
@@ -15268,7 +15160,7 @@
       "abr": "meadowlizardincubator",
       "category": "Incubators",
       "defname": "GR_MeadowLizardIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "meatpizza",
@@ -15364,61 +15256,61 @@
       "abr": "mechanoid/bearincubator",
       "category": "Incubators",
       "defname": "GR_MechabearIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "mechanoid/boomalopeincubator",
       "category": "Incubators",
       "defname": "GR_MechalopeIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "mechanoid/catincubator",
       "category": "Incubators",
       "defname": "GR_MechacatIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "mechanoid/chickenincubator",
       "category": "Incubators",
       "defname": "GR_MechachickenIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "mechanoid/insectoidincubator",
       "category": "Incubators",
       "defname": "GR_MechaspiderIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "mechanoid/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_MechamuffaloIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "mechanoid/reptilianincubator",
       "category": "Incubators",
       "defname": "GR_MechaturtleIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "mechanoid/rodentincubator",
       "category": "Incubators",
       "defname": "GR_MecharatIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "mechanoid/thrumboincubator",
       "category": "Incubators",
       "defname": "GR_MechathrumboIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "mechanoid/wolfincubator",
       "category": "Incubators",
       "defname": "GR_MechawolfIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "mechanoidactivecomponents",
@@ -15538,13 +15430,13 @@
       "abr": "mechathrumbo",
       "category": "Animal",
       "defname": "GR_Mechathrumbo",
-      "price": 6667
+      "price": 66670
     },
     {
       "abr": "mechathrumbomeat",
       "category": "Meat",
       "defname": "Meat_GR_Mechathrumbo",
-      "price": 3
+      "price": 30
     },
     {
       "abr": "mechaturtle",
@@ -15688,73 +15580,73 @@
       "abr": "muffalo/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearMuffaloPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "muffalo/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearMuffaloIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "muffalo/bearincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloBearIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "muffalo/catincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloCatPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "muffalo/catincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloCatIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "muffalo/catincubator",
       "category": "Incubators",
       "defname": "GR_CatMuffaloIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "muffalo/rodentincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloRodentPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "muffalo/rodentincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloratIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "muffalo/rodentincubator",
       "category": "Incubators",
       "defname": "GR_RatfalloIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "muffalo/wolfincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloWolfPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "muffalo/wolfincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloWolfIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "muffalo/wolfincubator",
       "category": "Incubators",
       "defname": "GR_WolfMuffaloIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "muffalogeneticmaterial",
@@ -15940,7 +15832,7 @@
       "abr": "needlechickenincubator",
       "category": "Incubators",
       "defname": "GR_NeedlechickenIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "needlechickenmeat",
@@ -15964,19 +15856,19 @@
       "abr": "nighthrumbo",
       "category": "Animal",
       "defname": "GR_Nighthrumbo",
-      "price": 2500
+      "price": 25000
     },
     {
       "abr": "nighthrumboegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_EggNighthrumboFertilized",
-      "price": 167
+      "price": 1670
     },
     {
       "abr": "nighthrumboincubator",
       "category": "Incubators",
       "defname": "GR_NighthrumboIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "non-specializedgeneticmaterial",
@@ -16066,7 +15958,7 @@
       "abr": "paragonbearincubator",
       "category": "Incubators",
       "defname": "GR_AlphaBearIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "paragonboartusks",
@@ -16084,7 +15976,7 @@
       "abr": "paragonboomalopeincubator",
       "category": "Incubators",
       "defname": "GR_AlphaBoomalopeIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "paragonchicken",
@@ -16108,7 +16000,7 @@
       "abr": "paragonchickenincubator",
       "category": "Incubators",
       "defname": "GR_AlphaChickenIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "paragonchickenmeat",
@@ -16138,7 +16030,7 @@
       "abr": "paragonemuincubator",
       "category": "Incubators",
       "defname": "GR_AlphaEmuIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "paragonhare",
@@ -16150,7 +16042,7 @@
       "abr": "paragonhareincubator",
       "category": "Incubators",
       "defname": "GR_AlphaHareIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "paragoniguana",
@@ -16174,7 +16066,7 @@
       "abr": "paragoniguanaincubator",
       "category": "Incubators",
       "defname": "GR_AlphaIguanaIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "paragonmuffalo",
@@ -16186,7 +16078,7 @@
       "abr": "paragonmuffaloincubator",
       "category": "Incubators",
       "defname": "GR_AlphaMuffaloIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "paragonostrich",
@@ -16210,7 +16102,7 @@
       "abr": "paragonostrichincubator",
       "category": "Incubators",
       "defname": "GR_AlphaOstrichIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "paragonpig",
@@ -16222,7 +16114,7 @@
       "abr": "paragonpigincubator",
       "category": "Incubators",
       "defname": "GR_AlphaPigIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "paragonrat",
@@ -16234,13 +16126,13 @@
       "abr": "paragonratincubator",
       "category": "Incubators",
       "defname": "GR_AlphaRatIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "paragonrhinoincubator",
       "category": "Incubators",
       "defname": "GR_AlphaRhinoIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "paragonrhinoceros",
@@ -16282,7 +16174,7 @@
       "abr": "paragontortoiseincubator",
       "category": "Incubators",
       "defname": "GR_AlphaTortoiseIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "paragonwildboar",
@@ -16294,13 +16186,13 @@
       "abr": "paragonwildboarincubator",
       "category": "Incubators",
       "defname": "GR_AlphaBoarIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "paragonwolfincubator",
       "category": "Incubators",
       "defname": "GR_AlphaWolfIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "paragon'shelm",
@@ -16648,49 +16540,49 @@
       "abr": "reptile/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearodileIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "reptile/boomalopeincubator",
       "category": "Incubators",
       "defname": "GR_BoomsnakeIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "reptile/catincubator",
       "category": "Incubators",
       "defname": "GR_SnakecatIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "reptile/chickenincubator",
       "category": "Incubators",
       "defname": "GR_ChickenlizardIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "reptile/insectoidincubator",
       "category": "Incubators",
       "defname": "GR_SpidersnakeIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "reptile/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_MuffalokomodoIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "reptile/thrumboincubator",
       "category": "Incubators",
       "defname": "GR_ThrumbolizardIncubator",
-      "price": 75
+      "price": 7500
     },
     {
       "abr": "reptile/wolfincubator",
       "category": "Incubators",
       "defname": "GR_WolfsnakeIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "reptiliangeneticmaterial",
@@ -17254,43 +17146,43 @@
       "abr": "thrumbo/bearincubator",
       "category": "Incubators",
       "defname": "GR_ThrumbearIncubator",
-      "price": 75
+      "price": 7500
     },
     {
       "abr": "thrumbo/boomalopeincubator",
       "category": "Incubators",
       "defname": "GR_ThrumbalopeIncubator",
-      "price": 75
+      "price": 7500
     },
     {
       "abr": "thrumbo/catincubator",
       "category": "Incubators",
       "defname": "GR_ThrumbocatIncubator",
-      "price": 75
+      "price": 7500
     },
     {
       "abr": "thrumbo/chickenincubator",
       "category": "Incubators",
       "defname": "GR_ThrumbochickenIncubator",
-      "price": 75
+      "price": 7500
     },
     {
       "abr": "thrumbo/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_ThrumffaloIncubator",
-      "price": 75
+      "price": 7500
     },
     {
       "abr": "thrumbo/rodentincubator",
       "category": "Incubators",
       "defname": "GR_ThrumboratIncubator",
-      "price": 75
+      "price": 7500
     },
     {
       "abr": "thrumbo/wolfincubator",
       "category": "Incubators",
       "defname": "GR_ThrumwolfIncubator",
-      "price": 75
+      "price": 7500
     },
     {
       "abr": "thrumboaxe",
@@ -17302,7 +17194,7 @@
       "abr": "thrumbogeneticmaterial",
       "category": "Genetic materials",
       "defname": "GR_ThrumboGenetic",
-      "price": 167
+      "price": 1670
     },
     {
       "abr": "thrumbosaber",
@@ -17326,31 +17218,31 @@
       "abr": "thrumbochickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "GR_ThrumbochickenEggFertilized",
-      "price": 42
+      "price": 420
     },
     {
       "abr": "thrumbochickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "GR_ThrumbochickenEggUnfertilized",
-      "price": 42
+      "price": 420
     },
     {
       "abr": "thrumbolizard",
       "category": "Animal",
       "defname": "GR_Thrumbolizard",
-      "price": 7500
+      "price": 75000
     },
     {
       "abr": "thrumborat",
       "category": "Animal",
       "defname": "GR_Thrumborat",
-      "price": 4000
+      "price": 40000
     },
     {
       "abr": "thrumbospider",
       "category": "Animal",
       "defname": "GR_Thrumbospider",
-      "price": 4167
+      "price": 41670
     },
     {
       "abr": "thrumffalo",
@@ -17896,55 +17788,55 @@
       "abr": "wolf/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearWolfPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "wolf/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearWolfIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "wolf/bearincubator",
       "category": "Incubators",
       "defname": "GR_WolfBearIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "wolf/catincubator",
       "category": "Incubators",
       "defname": "GR_WolfCatPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "wolf/catincubator",
       "category": "Incubators",
       "defname": "GR_WolfcatIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "wolf/catincubator",
       "category": "Incubators",
       "defname": "GR_CatwolfIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "wolf/rodentincubator",
       "category": "Incubators",
       "defname": "GR_WolfRodentPre",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "wolf/rodentincubator",
       "category": "Incubators",
       "defname": "GR_WolfbeaverIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "wolf/rodentincubator",
       "category": "Incubators",
       "defname": "GR_BeaverwolfIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "wolfgeneticmaterial",
@@ -17980,7 +17872,7 @@
       "abr": "wolfshrimpincubator",
       "category": "Incubators",
       "defname": "GR_WolfShrimpIncubator",
-      "price": 75
+      "price": 750
     },
     {
       "abr": "wolfalope",
@@ -18011,6 +17903,48 @@
       "category": "Animal",
       "defname": "GR_Wolfcat",
       "price": 617
+    },
+    {
+      "abr": "arcanetome:shaman",
+      "category": "Skill books",
+      "defname": "BookOfShamanism",
+      "price": 15000
+    },
+    {
+      "abr": "scrollofspiritbinding",
+      "category": "Magic artifacts",
+      "defname": "MagicArtifact_RerollSpiritBond",
+      "price": 417
+    },
+    {
+      "abr": "shamanspell:guardianspirit",
+      "category": "Scrolls",
+      "defname": "SpellOf_GuardianSpirit",
+      "price": 3767
+    },
+    {
+      "abr": "spiritbearmeat",
+      "category": "Meat",
+      "defname": "Meat_TM_SpiritBearR",
+      "price": 3
+    },
+    {
+      "abr": "spiritcrowmeat",
+      "category": "Meat",
+      "defname": "Meat_TM_SpiritCrowR",
+      "price": 3
+    },
+    {
+      "abr": "spiritmongoosemeat",
+      "category": "Meat",
+      "defname": "Meat_TM_SpiritMongooseR",
+      "price": 3
+    },
+    {
+      "abr": "tornscript:shaman",
+      "category": "Skill books",
+      "defname": "Torn_BookOfShamanism",
+      "price": 10000
     },
     {
       "abr": "wolfchicken",
@@ -18119,7 +18053,505 @@
       "category": "Animal products",
       "defname": "ArchoJelly",
       "price": 133
+    },
+    {
+      "abr": "acanthamoebagigantea,huge",
+      "category": "Animal",
+      "defname": "AA_AcanthamoebaGiganteaHuge",
+      "price": 1167
+    },
+    {
+      "abr": "acanthamoebagigantea,large",
+      "category": "Animal",
+      "defname": "AA_AcanthamoebaGiganteaLarge",
+      "price": 583
+    },
+    {
+      "abr": "acanthamoebagigantea,small",
+      "category": "Animal",
+      "defname": "AA_AcanthamoebaGiganteaSmall",
+      "price": 250
+    },
+    {
+      "abr": "animalisk",
+      "category": "Animal",
+      "defname": "AA_Animalisk",
+      "price": 833
+    },
+    {
+      "abr": "animaliskegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "AA_AnimaliskEggFertilized",
+      "price": 15
+    },
+    {
+      "abr": "drainer",
+      "category": "Animal",
+      "defname": "AA_Drainer",
+      "price": 417
+    },
+    {
+      "abr": "draineregg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "AA_DrainerEggFertilized",
+      "price": 1
+    },
+    {
+      "abr": "drainerlarva",
+      "category": "Animal",
+      "defname": "AA_DrainerLarva",
+      "price": 25
+    },
+    {
+      "abr": "mime",
+      "category": "Animal",
+      "defname": "AA_Mime",
+      "price": 1667
+    },
+    {
+      "abr": "minisword",
+      "category": "Special melee weapons",
+      "defname": "Nr_MiniSword",
+      "price": 1667
+    },
+    {
+      "abr": "phoenixowlcat",
+      "category": "Animal",
+      "defname": "AA_PhoenixOwlcat",
+      "price": 417
+    },
+    {
+      "abr": "phoenixowlcatmeat",
+      "category": "Meat",
+      "defname": "Meat_AA_PhoenixOwlcat",
+      "price": 3
+    },
+    {
+      "abr": "plasmsword",
+      "category": "Special melee weapons",
+      "defname": "Nr_PlasmSword",
+      "price": 1667
+    },
+    {
+      "abr": "xeushammer",
+      "category": "Special melee weapons",
+      "defname": "Nr_Xeushammer",
+      "price": 1667
+    },
+    {
+      "abr": "arcanetome:arbormancer",
+      "category": "Skill books",
+      "defname": "BookOfArbormancer",
+      "price": 15000
+    },
+    {
+      "abr": "arcanetome:cleric",
+      "category": "Skill books",
+      "defname": "BookOfCleric",
+      "price": 15000
+    },
+    {
+      "abr": "arcanetome:elementalgunner",
+      "category": "Skill books",
+      "defname": "BookOfElementalGunner",
+      "price": 15000
+    },
+    {
+      "abr": "arcanetome:harbinger",
+      "category": "Skill books",
+      "defname": "BookOfHarbinger",
+      "price": 15000
+    },
+    {
+      "abr": "arcanetome:keeper",
+      "category": "Skill books",
+      "defname": "BookOfKeeper",
+      "price": 15000
+    },
+    {
+      "abr": "arcanetome:ninja",
+      "category": "Skill books",
+      "defname": "BookOfNinja",
+      "price": 15000
+    },
+    {
+      "abr": "arcanetome:pridestalker",
+      "category": "Skill books",
+      "defname": "BookOfPridestalker",
+      "price": 15000
+    },
+    {
+      "abr": "arcanetome:redmage",
+      "category": "Skill books",
+      "defname": "BookOfRedMage",
+      "price": 15000
+    },
+    {
+      "abr": "arcanetome:troubadour",
+      "category": "Skill books",
+      "defname": "BookOfTroubadour",
+      "price": 15000
+    },
+    {
+      "abr": "arcanetome:windmage",
+      "category": "Skill books",
+      "defname": "BookOfWindMage",
+      "price": 15000
+    },
+    {
+      "abr": "bowskill:cripplingshot",
+      "category": "Scrolls",
+      "defname": "SkillOf_CripplingShot",
+      "price": 1500
+    },
+    {
+      "abr": "bowskill:grapplearrow",
+      "category": "Scrolls",
+      "defname": "SkillOf_GrappleArrow",
+      "price": 1500
+    },
+    {
+      "abr": "bowskill:marksman'svow",
+      "category": "Scrolls",
+      "defname": "SkillOf_MarksmansVow",
+      "price": 1500
+    },
+    {
+      "abr": "bowskill:quickshot",
+      "category": "Scrolls",
+      "defname": "SkillOf_QuickShot",
+      "price": 1500
+    },
+    {
+      "abr": "combataugments:railbreaker",
+      "category": "Skill books",
+      "defname": "BookOfRailbreaker",
+      "price": 15000
+    },
+    {
+      "abr": "combatform:scrapper",
+      "category": "Skill books",
+      "defname": "BookOfScrapper",
+      "price": 15000
+    },
+    {
+      "abr": "combatform:supportspecialist",
+      "category": "Skill books",
+      "defname": "BookOfSupportSpecialist",
+      "price": 15000
+    },
+    {
+      "abr": "combatinspiration:gadgeteer",
+      "category": "Skill books",
+      "defname": "BookOfGadgeteer",
+      "price": 15000
+    },
+    {
+      "abr": "combatstyle:ambusher",
+      "category": "Skill books",
+      "defname": "BookOfAmbusher",
+      "price": 15000
+    },
+    {
+      "abr": "combatstyle:berserker",
+      "category": "Skill books",
+      "defname": "BookOfBerserker",
+      "price": 15000
+    },
+    {
+      "abr": "combatstyle:bombardier",
+      "category": "Skill books",
+      "defname": "BookOfBombardier",
+      "price": 15000
+    },
+    {
+      "abr": "combatstyle:chainwarden",
+      "category": "Skill books",
+      "defname": "BookOfChainwarden",
+      "price": 15000
+    },
+    {
+      "abr": "combatstyle:hawkeye",
+      "category": "Skill books",
+      "defname": "BookOfHawkeye",
+      "price": 15000
+    },
+    {
+      "abr": "combatstyle:reaper",
+      "category": "Skill books",
+      "defname": "BookOfReaper",
+      "price": 15000
+    },
+    {
+      "abr": "combatstyle:saboteur",
+      "category": "Skill books",
+      "defname": "BookOfSaboteur",
+      "price": 15000
+    },
+    {
+      "abr": "combatstyle:samurai",
+      "category": "Skill books",
+      "defname": "BookOfSamurai",
+      "price": 15000
+    },
+    {
+      "abr": "combatstyle:scion",
+      "category": "Skill books",
+      "defname": "BookOfScion",
+      "price": 15000
+    },
+    {
+      "abr": "demonkinspell:eldritchbarrage",
+      "category": "Scrolls",
+      "defname": "SpellOf_EldritchBarrage",
+      "price": 3000
+    },
+    {
+      "abr": "fighterskill:backupgrenade",
+      "category": "Scrolls",
+      "defname": "SkillOf_BackupGrenade",
+      "price": 1000
+    },
+    {
+      "abr": "fighterskill:empgrenade",
+      "category": "Scrolls",
+      "defname": "SkillOf_EMPBomb",
+      "price": 1000
+    },
+    {
+      "abr": "fighterskill:evasiveleap",
+      "category": "Scrolls",
+      "defname": "SkillOf_EvasiveLeap",
+      "price": 1500
+    },
+    {
+      "abr": "fighterskill:glare",
+      "category": "Scrolls",
+      "defname": "SkillOf_Glare",
+      "price": 1000
+    },
+    {
+      "abr": "firespell:incinerate",
+      "category": "Scrolls",
+      "defname": "SpellOf_Incinerate",
+      "price": 3000
+    },
+    {
+      "abr": "gadgeteerskill:oldheadlight",
+      "category": "Scrolls",
+      "defname": "SkillOf_OldHeadlight",
+      "price": 1500
+    },
+    {
+      "abr": "gladiatorskill:grandchallenge",
+      "category": "Scrolls",
+      "defname": "SkillOf_GrandChallenge",
+      "price": 1500
+    },
+    {
+      "abr": "hippocraticoath:medic",
+      "category": "Skill books",
+      "defname": "BookOfMedic",
+      "price": 15000
+    },
+    {
+      "abr": "icespell:frostarmor",
+      "category": "Scrolls",
+      "defname": "SpellOf_FrostArmor",
+      "price": 3000
+    },
+    {
+      "abr": "lightningspell:overcharge",
+      "category": "Scrolls",
+      "defname": "SpellOf_Overcharge",
+      "price": 4000
+    },
+    {
+      "abr": "samuraiskill:temperance",
+      "category": "Scrolls",
+      "defname": "SkillOf_Temperance",
+      "price": 1500
+    },
+    {
+      "abr": "sniperskill:death'sjudgment",
+      "category": "Scrolls",
+      "defname": "SkillOf_DeathsJudgment",
+      "price": 3333
+    },
+    {
+      "abr": "sniper/soldierskill:stimshot",
+      "category": "Scrolls",
+      "defname": "SkillOf_StimShot",
+      "price": 1833
+    },
+    {
+      "abr": "summonerspell:aspectchanneling",
+      "category": "Scrolls",
+      "defname": "SpellOf_AspectChanneling",
+      "price": 3333
+    },
+    {
+      "abr": "supersoldierskill:serumoverload",
+      "category": "Scrolls",
+      "defname": "SkillOf_SerumOverload",
+      "price": 2333
+    },
+    {
+      "abr": "tornscript:arbormancer",
+      "category": "Skill books",
+      "defname": "Torn_BookOfArbormancer",
+      "price": 10000
+    },
+    {
+      "abr": "tornscript:chromamage",
+      "category": "Skill books",
+      "defname": "Torn_BookOfChromaMage",
+      "price": 10000
+    },
+    {
+      "abr": "tornscript:cleric",
+      "category": "Skill books",
+      "defname": "Torn_BookOfCleric",
+      "price": 10000
+    },
+    {
+      "abr": "tornscript:harbinger",
+      "category": "Skill books",
+      "defname": "Torn_BookOfHarbinger",
+      "price": 10000
+    },
+    {
+      "abr": "tornscript:keeper",
+      "category": "Skill books",
+      "defname": "Torn_BookOfKeeper",
+      "price": 10000
+    },
+    {
+      "abr": "tornscript:troubadour",
+      "category": "Skill books",
+      "defname": "Torn_BookOfTroubadour",
+      "price": 10000
+    },
+    {
+      "abr": "tornscript:windmage",
+      "category": "Skill books",
+      "defname": "Torn_BookOfWindMage",
+      "price": 10000
+    },
+    {
+      "abr": "twistedinspiration:plaguedoctor",
+      "category": "Skill books",
+      "defname": "BookOfPlaguedoctor",
+      "price": 15000
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestcrib",
+      "category": "Furniture",
+      "defname": "CribGuest",
+      "price": 105
+    },
+    {
+      "abr": "guestcryptosleepsuspender",
+      "category": "Furniture",
+      "defname": "Bed_CryptoBedGuest",
+      "price": 733
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290
+    },
+    {
+      "abr": "guestergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_ErgonomicGuest",
+      "price": 450
+    },
+    {
+      "abr": "guestergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomicGuest",
+      "price": 867
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 667
+    },
+    {
+      "abr": "guestmedpod",
+      "category": "Furniture",
+      "defname": "MedPodStandardGuest",
+      "price": 8333
+    },
+    {
+      "abr": "guestmedpodlux",
+      "category": "Furniture",
+      "defname": "MedPodLuxGuest",
+      "price": 12500
+    },
+    {
+      "abr": "guestoperatingtable",
+      "category": "Furniture",
+      "defname": "Bed_OperatingTableGuest",
+      "price": 508
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1467
+    },
+    {
+      "abr": "guestroyalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_KingsizeGuest",
+      "price": 2008
+    },
+    {
+      "abr": "guestsimplebed",
+      "category": "Furniture",
+      "defname": "Bed_SimpleGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlabGuest",
+      "price": 111
+    },
+    {
+      "abr": "zombgrella",
+      "category": "Misc",
+      "defname": "Zombgrella",
+      "price": 642
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 3020
+  "total": 3092
 }
